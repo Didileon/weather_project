@@ -10,7 +10,7 @@ Frontend: React (create-react-app)
 
 API: Open-Meteo.com
 
- База данных: SQLite (по умолчанию). Есть возможность переключения на PostgreSQL через Docker.
+База данных: SQLite (по умолчанию). Есть возможность переключения на PostgreSQL через Docker.
 
 Docker: Полностью контейнеризированное приложение с помощью docker-compose
 
