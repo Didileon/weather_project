@@ -21,7 +21,7 @@ function App() {
                     setError("Не удалось загрузить данные для последнего города.");
                 });
         }
-    }, []);
+    }, [backendUr]);
 
     const handleSearch = async () => {
         try {
